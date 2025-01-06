@@ -10,7 +10,7 @@ export function OldHomePage() {
         <Link href="/" className="flex items-center gap-x-2">
           <Image src={Logo} alt="logo" width={50} height={50} />
           <h1 className="text-3xl font-bold">
-            Cal<span className="text-primary">Marshal</span>
+            <span className="text-primary">Schedly</span>
           </h1>
         </Link>
 
